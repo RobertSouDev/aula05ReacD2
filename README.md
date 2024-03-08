@@ -22,4 +22,4 @@
             );
             }
 
-- async  nao toda linguagem que vc vai precissa diferenciar no JS quando vc tem uma operancao que depende da conexao de net ou fator externo que ele nao sabe adivinha entao vc manda ele "espere isso termina" que se usa o await sendo que precisa ser uma function async
+- async  nao é toda linguagem que vc vai precissa diferenciar no JS quando vc tem uma operancao que depende da conexao de net ou fator externo que ele nao sabe adivinha entao vc manda ele "espere isso termina" que se usa o await sendo que precisa ser uma function async
